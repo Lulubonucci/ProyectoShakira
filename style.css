@@ -1,0 +1,24 @@
+.título {
+    text-align: center;
+    color: #fae47b;
+}
+
+.content {
+    width: 100%;
+}
+
+.biografia {
+    width: 100%;
+    display: flex;
+}
+
+.parrafo {
+    width: 60%;
+}
+
+.imagen {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+
+}
