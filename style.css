@@ -1,3 +1,28 @@
+.título {
+    text-align: center;
+    color: #ffd75f;
+}
+
+.content {
+    width: 100%;
+}
+
+.biografia {
+    width: 100%;
+    display: flex;
+}
+
+.parrafo {
+    width: 60%;
+    color: #ffd75f;
+}
+
+.imagen {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+
+}
 
 body {
   background-color: black;
@@ -43,7 +68,7 @@ a {
 }   
 .titulo {
     text-align: center;
-    color: #fae47b;
+    color: #ffd75f;
 
 }   
 .album{
@@ -57,3 +82,4 @@ a {
     padding: 10px;
 }
 
+ 
