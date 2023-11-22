@@ -1,0 +1,18 @@
+.content{
+    background-color: black;
+}   
+.titulo {
+    text-align: center;
+    color: #fae47b;
+
+}   
+.album{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+}
+.disco img{
+    width: 400px;
+    padding: 10px;
+}
