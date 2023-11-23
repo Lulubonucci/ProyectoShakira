@@ -1,6 +1,7 @@
 .título {
     text-align: center;
     color: #ffd75f;
+    font-size: 30px;
 }
 
 .content {
@@ -10,11 +11,16 @@
 .biografia {
     width: 100%;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .parrafo {
     width: 60%;
     color: #ffd75f;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 100px;
+    font-size: 20px;
 }
 
 .imagen {
