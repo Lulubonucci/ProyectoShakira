@@ -16,6 +16,10 @@
 .parrafo {
   width: 60%;
   color: #ffd75f;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .parrafo {
@@ -94,6 +98,7 @@ a {
 .titulo {
   text-align: center;
   color: #ffd75f;
+  font-size: 30px;
 
 }
 
