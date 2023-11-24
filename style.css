@@ -103,11 +103,11 @@ a {
 }
 
 .noticias {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin-top: 80px;
 }
 
 .noticias img {
@@ -115,14 +115,21 @@ a {
   padding: 10px;
 }
 
-.noticias>.parrafo {
+.contenedor-p-a {
   color: #FAE47B;
   font-size: 25px;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 80px;
 }
 
 .noticias a {
   text-decoration: none;
   color: #FAE47B;
+  display: flex;
+  align-items: center;
 }
 
 .noticias a:hover {
